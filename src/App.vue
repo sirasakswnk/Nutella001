@@ -6,7 +6,7 @@
       <div class="header-icon">🩺</div>
       <div class="header-text">
         <h1>ผู้ช่วยแพทย์ AI</h1>
-        <p>Nutella001 · Llama 3.2 3B</p>
+        <p>Nutella001 · Qwen3 - 4B</p>
       </div>
       <div class="header-actions">
         <div class="status-pill" :class="{ online: isOnline, offline: !isOnline }">
